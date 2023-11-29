@@ -1,4 +1,6 @@
+![Alt text](img/uifx-dino-standing.png?raw=true)
 # UIFX
+
 UIFX is a collection of UI visual effects for Unity
 
 This repository is primarily used for user support via [Issues](https://github.com/Chocolate-Dinosaur/UIFX/issues)
