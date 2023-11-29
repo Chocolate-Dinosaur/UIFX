@@ -1,4 +1,4 @@
-![Alt text](img/uifx-dino-standing.png?raw=true)
+![Alt text](img/uifx-dino-standing2.png?raw=true)
 # UIFX
 
 UIFX is a collection of UI visual effects for Unity
